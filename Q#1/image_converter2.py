@@ -6,9 +6,9 @@ CompressedImage. It converts the CompressedImage into a numpy.ndarray,
 then detects and marks features in that image. It finally displays 
 and publishes the new image - again as CompressedImage topic.
 """
-__author__ =  'Simon Haller <simon.haller at uibk.ac.at>'
-__version__=  '0.1'
-__license__ = 'BSD'
+__author__ =  'Belayneh Mathewos, at iCog labs Ethiopia>'
+__version__=  '0'
+#__license__ = 'BMG'
 # Python libs
 import sys, time
 
