@@ -1,7 +1,7 @@
 # iCog_ROS_challeng1
 To run the codes:
 
-Q1. 1.
+Q1. 1.Take image and publish it.
 
 
 Q2. 1. Simply run the launch file(fractals.launch).
