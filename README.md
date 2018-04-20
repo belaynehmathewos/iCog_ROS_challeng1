@@ -1,9 +1,9 @@
 # iCog_ROS_challeng1
 To run the codes:
 
-Q1. 1.Simply run image.launch
-      image_publisher:Take image and publish it.
-      image_subscriber:Convert it into grayscale and publish it.
+Q1. 1.Simply run image.launch.
+      'image_publisher':Take image and publish it.
+      'image_subscriber':Convert it into grayscale and publish it.
 
 Q2. 1. Simply run the launch file(fractals.launch).
 
