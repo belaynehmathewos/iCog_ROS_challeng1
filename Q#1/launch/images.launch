@@ -1,0 +1,11 @@
+<launch>
+    <node pkg="image_transform1" 
+            type="image_publisher2.py" 
+            name="image_publisher2" 
+            output="screen"> </node>
+    
+    <node pkg="image_transform1"
+            type="image_subscriber2.py"
+            name="image_subscriber2" 
+            output="screen"> </node>
+</launch>
