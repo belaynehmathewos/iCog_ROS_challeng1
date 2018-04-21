@@ -1,0 +1,9 @@
+<launch>
+   <!-- Blender Node-->
+   <!--node pkg="blender_ros" type="blender_turtlesim2.py" name="blender_window" /-->
+   <node pkg="turtlesim" type="turtlesim_node" name="sim"/>
+
+   <node pkg="blender_ros" type="blender_turtlesim2.py" 
+   		 name="blender_node" output="screen"/>
+
+</launch>
