@@ -8,9 +8,9 @@ Q1. 1.Simply run image.launch.
 Q2. 1. Simply run the launch file(fractals.launch).
 
 
-Q3. 1.first launch(roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/opt/ros/indigo/share/turtlebot_gazebo/worlds/empty.world
+Q3. 1.first run server_blender2.blend and then launch the launch file(blender3.launch).
       )
-    2. then run the launch file(object.launch)
+    2. 
 
 
 Q4. 1. Simply run(launch) the launch file(...demo.launch)
