@@ -8,10 +8,10 @@ Q1. 1.Simply run image.launch.
 Q2. 1. Simply run the launch file(fractals.launch).
 
 
-Q3. 1.first run server_blender2.blend and then launch the launch file(blender3.launch).
+Q3. 1.first run client_blender2.blend and then launch the launch file(blender3.launch).
        
 
-Q4. 1. Simply run(launch) the launch file(...demo.launch)
+Q4. 1. Simply run(launch) the launch file(...chase.launch)
 
 
 Q5. 1.First run the turtlesim.
